@@ -9,7 +9,7 @@ Live caption for Images in Indesign
 5. Works well with rotated, transformed images. Aligns caption box with the images.
 
 ### Installation
-Currently a full featured version of the solution is available for InDesign CC2015 on MAC.
+Currently a full featured version of the solution is available for InDesign CC2015 and InDesign CC2017 on MAC.
 Download the installer and run it. If you have InDesign installed in a location other than under /Application, choose the InDesign install location.
 
 ### How to use
