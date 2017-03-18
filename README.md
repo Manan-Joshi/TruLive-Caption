@@ -20,8 +20,5 @@ Download the installer and run it. If you have InDesign installed in a location 
 5. Captions can also be setup by choosing Object>Captions>Caption Setup
 
 ### Known issues
-1. Layer setting of caption setup is not used currently
-2. Offset setting of caption setup is not used currently
-3. Group caption with image setting of caption setup is not used currently
-4. Available only for InDesign CC2015 MAC version
+1. Issues are being tracked on the issue tab, Please add bugs and feature suggestions there
 
