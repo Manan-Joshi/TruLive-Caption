@@ -22,5 +22,5 @@ Download the installer and run it. If you have InDesign installed in a location 
 ### Known issues
 1. Issues are being tracked on the issue tab, Please add bugs and feature suggestions there
 
-###Work in progress
+### Work in progress
 A new version of TruLive-Caption is under work that will allow you to pick up info from the XMP data in the images to be used as captions in InDesign. This version will be released soon
