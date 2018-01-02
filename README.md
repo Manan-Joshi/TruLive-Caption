@@ -8,6 +8,10 @@ Live caption for Images in Indesign
 4. Integrated with the native caption settings, no need for extra settings
 5. Works well with rotated, transformed images. Aligns caption box with the images.
 
+#### XMP metadata as captions
+1. Use XMP data as captions
+2. The supported namespaces of XMP are IPTC, Photoshop, TIFF, EXIF, Camera Raw
+
 ### Installation
 Currently a full featured version of the solution is available for InDesign CC2015 and InDesign CC2017 on MAC.
 Download the installer and run it. If you have InDesign installed in a location other than under /Application, choose the InDesign install location.
@@ -21,6 +25,3 @@ Download the installer and run it. If you have InDesign installed in a location 
 
 ### Known issues
 1. Issues are being tracked on the issue tab, Please add bugs and feature suggestions there
-
-### Work in progress
-A new version of TruLive-Caption is under work that will allow you to pick up info from the XMP data in the images to be used as captions in InDesign. This version will be released soon
